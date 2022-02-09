@@ -1,16 +1,12 @@
-# flutter_json
+# Flutter - Kedi Cinsleri Uygulaması
 
-A new Flutter project.
+1.5 ay önce başladığım Flutter eğitimi sonrasında ilk uygulamamı yapmış bulunmaktayım. Henüz yeni öğrenme aşamasında olduğumdan kodları kullanış şeklim muhtemelen yanlış :) Fakat öncelikli amacım istediğim görüntüyü elde etmekti. Basit olsa da amacıma ulaştım sayılır :) 
 
-## Getting Started
+Uygulamada daha önce PHP ile geliştirdiğim [Kedi Cinsleri](https://www.kedicinsleri.xyz/) internet sitemdeki veritabanını JSON dosyası şeklinde  çıktı alarak bu uygulmada veri kaynağı olarak kullandım. İçerisinde 67 adet kedi cinsi ve birkaç özel veri yer almaktadır.
 
-This project is a starting point for a Flutter application.
+Bu uygulamayı yaparken eğitim videosunun dışında halihazırda bir [json dosyasından veri almayı](https://www.youtube.com/watch?v=8TzfcGAbyr4) aynı zamanda [flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar) özelliğini öğrendim ve uygulamada kullandım. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uygulamadan Görüntüler:
+![alt text](https://i.hizliresim.com/4vxqkgi.jpg)
